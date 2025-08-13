@@ -6,3 +6,4 @@ This is my first project using **Git** and **GitHub**.
 - Learn version control
 - Practice advanced OOP
 - Work with Agile workflow
+Update README with project goals

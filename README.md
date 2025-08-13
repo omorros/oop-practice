@@ -7,3 +7,8 @@ I am learning how to use **Git** and **GitHub** for version control.
 - Add code files
 - Commit and push changes
 - Work with branches
+
+## Goals
+- Learn version control basics
+- Practice branches & PRs
+- Get comfortable resolving conflicts
